@@ -38,7 +38,7 @@ This repo is a curated collection of scripts and mini-projects to help with lear
       <td>Quick parsing tasks using BeautifulSoup</td>
     </tr>
     <tr>
-      <td><code>selenium+/code></td>
+      <td><code>selenium+</code></td>
       <td>Webdriver parsing tasks using Selenium</td>
     </tr>
     <tr>
