@@ -1,0 +1,3 @@
+need to learn spider, pipelining, understand the middleawres
+    - then, logging
+    - then, deployment (+ integration to jobrec)

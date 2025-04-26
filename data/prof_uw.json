@@ -1,0 +1,842 @@
+[
+    {
+        "professor": "Zoraida Rico",
+        "department": "Statistics",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Kenneth Sebens",
+        "department": "Biology",
+        "would_take_again": "38%"
+    },
+    {
+        "professor": "Jennifer Taggart",
+        "department": "Mathematics",
+        "would_take_again": "81%"
+    },
+    {
+        "professor": "Elena Pezzoli",
+        "department": "Mathematics",
+        "would_take_again": "49%"
+    },
+    {
+        "professor": "Yael Jacobs",
+        "department": "Economics",
+        "would_take_again": "38%"
+    },
+    {
+        "professor": "James Zhang",
+        "department": "Mathematics",
+        "would_take_again": "46%"
+    },
+    {
+        "professor": "Sumit Roy",
+        "department": "Engineering",
+        "would_take_again": "15%"
+    },
+    {
+        "professor": "Bianca Viray",
+        "department": "Mathematics",
+        "would_take_again": "35%"
+    },
+    {
+        "professor": "Shiping Cao",
+        "department": "Mathematics",
+        "would_take_again": "35%"
+    },
+    {
+        "professor": "Sang-gyeun Ahn",
+        "department": "Art",
+        "would_take_again": "43%"
+    },
+    {
+        "professor": "Anastassiya Semenova",
+        "department": "Applied Mathematics",
+        "would_take_again": "29%"
+    },
+    {
+        "professor": "Mathilde Magga",
+        "department": "English",
+        "would_take_again": "72%"
+    },
+    {
+        "professor": "Wes King",
+        "department": "Information Science",
+        "would_take_again": "45%"
+    },
+    {
+        "professor": "Apurva Jain",
+        "department": "Business",
+        "would_take_again": "31%"
+    },
+    {
+        "professor": "Adair Rounthwaite",
+        "department": "Art History",
+        "would_take_again": "40%"
+    },
+    {
+        "professor": "Tayfun Keskin",
+        "department": "Information Systems",
+        "would_take_again": "88%"
+    },
+    {
+        "professor": "Kevin Fleming",
+        "department": "Information Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Jenna Grant",
+        "department": "Anthropology",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Andy Fallat",
+        "department": "Art",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Alaina Forbes",
+        "department": "Science",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Frances Maloy",
+        "department": "Finance",
+        "would_take_again": "35%"
+    },
+    {
+        "professor": "Patrick Perkins",
+        "department": "Mathematics",
+        "would_take_again": "70%"
+    },
+    {
+        "professor": "Shaosong Ou",
+        "department": "Information Systems",
+        "would_take_again": "51%"
+    },
+    {
+        "professor": "Jack Turner",
+        "department": "Political Science",
+        "would_take_again": "85%"
+    },
+    {
+        "professor": "Martha Matthews",
+        "department": "Marketing",
+        "would_take_again": "90%"
+    },
+    {
+        "professor": "Laurie Marhoefer",
+        "department": "History",
+        "would_take_again": "83%"
+    },
+    {
+        "professor": "Jakob Kotas",
+        "department": "Applied Mathematics",
+        "would_take_again": "69%"
+    },
+    {
+        "professor": "Yutao Liu",
+        "department": "Mathematics",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Delancey Wu",
+        "department": "Psychology",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Jaime Snyder",
+        "department": "Information Science",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Kristen Thayer",
+        "department": "Information Systems",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Abed Shalabi",
+        "department": "Art",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Andrew Loveless",
+        "department": "Mathematics",
+        "would_take_again": "99%"
+    },
+    {
+        "professor": "Colleen Craig",
+        "department": "Chemistry",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Melissa Knox",
+        "department": "Economics",
+        "would_take_again": "23%"
+    },
+    {
+        "professor": "Daniel Chiu",
+        "department": "Chemistry",
+        "would_take_again": "32%"
+    },
+    {
+        "professor": "Eli Wheat",
+        "department": "Environmental Studies",
+        "would_take_again": "90%"
+    },
+    {
+        "professor": "Ian Schnee",
+        "department": "Philosophy",
+        "would_take_again": "78%"
+    },
+    {
+        "professor": "Kristi Straus",
+        "department": "Environmental Studies",
+        "would_take_again": "87%"
+    },
+    {
+        "professor": "Alex Anderson",
+        "department": "Architecture",
+        "would_take_again": "86%"
+    },
+    {
+        "professor": "Sam Otim",
+        "department": "Information Science",
+        "would_take_again": "9%"
+    },
+    {
+        "professor": "Erik Hurlen",
+        "department": "Aeronautics",
+        "would_take_again": "92%"
+    },
+    {
+        "professor": "Christian Gorski",
+        "department": "Mathematics",
+        "would_take_again": "19%"
+    },
+    {
+        "professor": "Angelina Godoy",
+        "department": "International Studies",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Guillermo Sanmarco",
+        "department": "Mathematics",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Tom Le",
+        "department": "Civil Engineering",
+        "would_take_again": "58%"
+    },
+    {
+        "professor": "Natalie Naehrig",
+        "department": "Mathematics",
+        "would_take_again": "62%"
+    },
+    {
+        "professor": "Casey Self",
+        "department": "Biology",
+        "would_take_again": "66%"
+    },
+    {
+        "professor": "Dustin Maly",
+        "department": "Chemistry",
+        "would_take_again": "43%"
+    },
+    {
+        "professor": "Karen Cheng",
+        "department": "Design",
+        "would_take_again": "78%"
+    },
+    {
+        "professor": "Larry Pierce",
+        "department": "Mathematics",
+        "would_take_again": "89%"
+    },
+    {
+        "professor": "Radhika Govindrajan",
+        "department": "Anthropology",
+        "would_take_again": "82%"
+    },
+    {
+        "professor": "Anthony Gill",
+        "department": "Political Science",
+        "would_take_again": "56%"
+    },
+    {
+        "professor": "Louisa Iarocci",
+        "department": "Architecture",
+        "would_take_again": "58%"
+    },
+    {
+        "professor": "Ann Huppert",
+        "department": "Architecture",
+        "would_take_again": "29%"
+    },
+    {
+        "professor": "Zahra Rasti",
+        "department": "Architecture",
+        "would_take_again": "37%"
+    },
+    {
+        "professor": "Frank Macarthy",
+        "department": "English",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Tori Haynes",
+        "department": "Architecture",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Mary Anne Henderson",
+        "department": "History",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Elizabeth Nance",
+        "department": "Chemical Engineering",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Yoshihiro Shirai",
+        "department": "Applied Mathematics",
+        "would_take_again": "45%"
+    },
+    {
+        "professor": "Erica Ingalls",
+        "department": "Chemistry",
+        "would_take_again": "38%"
+    },
+    {
+        "professor": "Kevin Lin",
+        "department": "Computer Science",
+        "would_take_again": "22%"
+    },
+    {
+        "professor": "Yu Yuan",
+        "department": "Mathematics",
+        "would_take_again": "27%"
+    },
+    {
+        "professor": "Ann Frost",
+        "department": "Political Science",
+        "would_take_again": "74%"
+    },
+    {
+        "professor": "David Masiello",
+        "department": "Mathematics",
+        "would_take_again": "45%"
+    },
+    {
+        "professor": "Susan Glenn",
+        "department": "History",
+        "would_take_again": "56%"
+    },
+    {
+        "professor": "Joseph Sisneros",
+        "department": "Psychology",
+        "would_take_again": "91%"
+    },
+    {
+        "professor": "Nadine Maestas",
+        "department": "English",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Jacob Pruett",
+        "department": "English",
+        "would_take_again": "78%"
+    },
+    {
+        "professor": "William Vesneski",
+        "department": "Criminal Justice",
+        "would_take_again": "88%"
+    },
+    {
+        "professor": "Jennifer Baez",
+        "department": "Art History",
+        "would_take_again": "17%"
+    },
+    {
+        "professor": "Kristian Jones",
+        "department": "Social Work",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Mo Turner",
+        "department": "Biology",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Joel Ross",
+        "department": "Information Science",
+        "would_take_again": "68%"
+    },
+    {
+        "professor": "David Hertzog",
+        "department": "Physics",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Jeong-Ah Lee",
+        "department": "Physics",
+        "would_take_again": "15%"
+    },
+    {
+        "professor": "Simon Sandh",
+        "department": "Epidemiology",
+        "would_take_again": "58%"
+    },
+    {
+        "professor": "Marko Madunic",
+        "department": "Business Administration",
+        "would_take_again": "27%"
+    },
+    {
+        "professor": "Anna Melby",
+        "department": "Health Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Sokiente Dagogo Jack",
+        "department": "Marketing",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Ruth Huwe",
+        "department": "Management",
+        "would_take_again": "26%"
+    },
+    {
+        "professor": "Adrian Andelin",
+        "department": "Psychology",
+        "would_take_again": "89%"
+    },
+    {
+        "professor": "Kai-Mei Fu",
+        "department": "Physics",
+        "would_take_again": "45%"
+    },
+    {
+        "professor": "Matt Saxton",
+        "department": "Information Science",
+        "would_take_again": "30%"
+    },
+    {
+        "professor": "Jian James Zhang",
+        "department": "Mathematics",
+        "would_take_again": "62%"
+    },
+    {
+        "professor": "Matthew Farkas",
+        "department": "Applied Mathematics",
+        "would_take_again": "27%"
+    },
+    {
+        "professor": "Laura Prugh",
+        "department": "Environmental Science",
+        "would_take_again": "77%"
+    },
+    {
+        "professor": "Qi Cheng",
+        "department": "Linguistics",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Kuldeep Singh",
+        "department": "Art",
+        "would_take_again": "58%"
+    },
+    {
+        "professor": "Roni Guerra",
+        "department": "Biology",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Tyler Williams",
+        "department": "Mechanical Engineering",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Eun Kim",
+        "department": "Psychology",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Brit McClellan",
+        "department": "Management",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Sarah Lohmann",
+        "department": "Information Science",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Audrey Omar",
+        "department": "Sociology",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Elba Garza",
+        "department": "Computer Science",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Jennifer Salk",
+        "department": "Dance",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Nikolai Tolich",
+        "department": "Physics",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Robert Synovec",
+        "department": "Chemistry",
+        "would_take_again": "56%"
+    },
+    {
+        "professor": "Robbie Weber",
+        "department": "Computer Science",
+        "would_take_again": "98%"
+    },
+    {
+        "professor": "Gary Handwerk",
+        "department": "English",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Joel Thornton",
+        "department": "Science",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Stephanie Smallwood",
+        "department": "History",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Anne Tseng",
+        "department": "Sociology",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Donna Shin",
+        "department": "Music",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Samantha Robinson",
+        "department": "Chemistry",
+        "would_take_again": "38%"
+    },
+    {
+        "professor": "Wendy Baesler",
+        "department": "Accounting",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Jennifer Nemhauser",
+        "department": "Biology",
+        "would_take_again": "28%"
+    },
+    {
+        "professor": "Ruth Anderson",
+        "department": "Computer Science",
+        "would_take_again": "86%"
+    },
+    {
+        "professor": "Sabrina Spannagel",
+        "department": "Spanish & Portuguese",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Anand Yang",
+        "department": "International Studies",
+        "would_take_again": "70%"
+    },
+    {
+        "professor": "James Wilcox",
+        "department": "Computer Science",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Vicente Rafael",
+        "department": "History",
+        "would_take_again": "85%"
+    },
+    {
+        "professor": "Jennifer Graves",
+        "department": "Business",
+        "would_take_again": "86%"
+    },
+    {
+        "professor": "Matt Wang",
+        "department": "Computer Science",
+        "would_take_again": "96%"
+    },
+    {
+        "professor": "Kyle Loucks",
+        "department": "Biology",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Fred Pursell",
+        "department": "Business Administration",
+        "would_take_again": "30%"
+    },
+    {
+        "professor": "Anne Wagner",
+        "department": "Statistics",
+        "would_take_again": "38%"
+    },
+    {
+        "professor": "Daniel Kirschen",
+        "department": "Electrical Engineering",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Helen Muyia",
+        "department": "Management",
+        "would_take_again": "25%"
+    },
+    {
+        "professor": "Susan Archambault",
+        "department": "Information Science",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Claire Scott",
+        "department": "Information Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Jacob Cooper",
+        "department": "Biology",
+        "would_take_again": "91%"
+    },
+    {
+        "professor": "Krzysztof Burdzy",
+        "department": "Mathematics",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Anis Rahman",
+        "department": "Communication",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Barbara Henry",
+        "department": "Slavic Languages & Literatures",
+        "would_take_again": "97%"
+    },
+    {
+        "professor": "Junghee Kim",
+        "department": "Languages",
+        "would_take_again": "78%"
+    },
+    {
+        "professor": "Eric Ames",
+        "department": "Germanic & Russian Studies",
+        "would_take_again": "89%"
+    },
+    {
+        "professor": "Kam Wing Chan",
+        "department": "Geography",
+        "would_take_again": "43%"
+    },
+    {
+        "professor": "Marc O. Eberhard",
+        "department": "Civil Engineering",
+        "would_take_again": "92%"
+    },
+    {
+        "professor": "Mark Letteney",
+        "department": "History",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Jack Grace",
+        "department": "English",
+        "would_take_again": "86%"
+    },
+    {
+        "professor": "Marie Spiker",
+        "department": "Health Science",
+        "would_take_again": "86%"
+    },
+    {
+        "professor": "Dongsheng Zang",
+        "department": "Law",
+        "would_take_again": "34%"
+    },
+    {
+        "professor": "Kimmie Bacon",
+        "department": "English",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Katie Davis",
+        "department": "Information Technology",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "Alexis Licht",
+        "department": "Earth amp Space Science",
+        "would_take_again": "0%"
+    },
+    {
+        "professor": "Eric Svaren",
+        "department": "Political Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Ranjay Krishna",
+        "department": "Computer Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Alan Griffith",
+        "department": "Economics",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Ray Lahiri",
+        "department": "Classics",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Vivian Xiao",
+        "department": "Business",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Gojko Lalic",
+        "department": "Chemistry",
+        "would_take_again": "47%"
+    },
+    {
+        "professor": "David Bachman",
+        "department": "International Studies",
+        "would_take_again": "28%"
+    },
+    {
+        "professor": "James Gregory",
+        "department": "History",
+        "would_take_again": "60%"
+    },
+    {
+        "professor": "Julie Brines",
+        "department": "Sociology",
+        "would_take_again": "33%"
+    },
+    {
+        "professor": "Stephanie Grant",
+        "department": "Accounting",
+        "would_take_again": "94%"
+    },
+    {
+        "professor": "Melanie Enderle",
+        "department": "Art History",
+        "would_take_again": "96%"
+    },
+    {
+        "professor": "Debbie McNally",
+        "department": "History",
+        "would_take_again": "83%"
+    },
+    {
+        "professor": "Louisa MacKenzie",
+        "department": "French & Italian",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Rosalind Kichler",
+        "department": "Sociology",
+        "would_take_again": "77%"
+    },
+    {
+        "professor": "Berit Olsen",
+        "department": "Psychology",
+        "would_take_again": "25%"
+    },
+    {
+        "professor": "Ashli Baker",
+        "department": "Classics",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Himanshu Grover",
+        "department": "Design",
+        "would_take_again": "80%"
+    },
+    {
+        "professor": "James Kim",
+        "department": "Political Science",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Jonathan Isaac",
+        "department": "English",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Heather Whiteman",
+        "department": "Information Science",
+        "would_take_again": "67%"
+    },
+    {
+        "professor": "Calvin Pollak",
+        "department": "English",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Emily Carrington",
+        "department": "Study Abroad",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Terry Swanson",
+        "department": "Geology",
+        "would_take_again": "84%"
+    },
+    {
+        "professor": "Charles Camacho",
+        "department": "Mathematics",
+        "would_take_again": "95%"
+    },
+    {
+        "professor": "Jodi Newman",
+        "department": "Psychology",
+        "would_take_again": "98%"
+    },
+    {
+        "professor": "Dmitriy Drusvyatskiy",
+        "department": "Mathematics",
+        "would_take_again": "50%"
+    },
+    {
+        "professor": "Ryan Allen",
+        "department": "Business",
+        "would_take_again": "100%"
+    },
+    {
+        "professor": "Bobby Wilson",
+        "department": "Mathematics",
+        "would_take_again": "40%"
+    },
+    {
+        "professor": "Joe Concannon",
+        "department": "English",
+        "would_take_again": "75%"
+    },
+    {
+        "professor": "Barry Erickson",
+        "department": "Business",
+        "would_take_again": "70%"
+    }
+]
